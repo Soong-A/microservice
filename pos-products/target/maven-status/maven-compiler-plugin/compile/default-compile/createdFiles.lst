@@ -1,0 +1,5 @@
+com\micropos\products\repository\ProductRepository.class
+com\micropos\products\ProductsApplication.class
+com\micropos\products\rest\ProductController.class
+com\micropos\products\service\ProductServiceImpl.class
+com\micropos\products\service\ProductService.class
